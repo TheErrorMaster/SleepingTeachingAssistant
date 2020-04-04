@@ -13,15 +13,15 @@ How the run program: <br>
 	2. Right-click white space click on "Open Terminal Here" <br>
 	3. In the Terminal window <br>
 		a. compile file: 'g++ TA.cpp -lpthread -o TA' <br>
-		b. run file ./TA <br>
+		b. run file ./TA <br> <br>
 	
 Team collaboration on the project: <br>
-	1. Mauricio: Started the first half of the project:<br>
+	1. Mauricio: Started the first half of the project:<br> <br>
 		a. Initializing Mutex Lock and Semaphores. <br>
 		b. Created and Waiting TA threads and N Student threads. <br>
 		c. Started the README file <br>
-		d. Started the "Design of Sleeping Teaching Assistant". <br>	
-	2. Cassandra: Finished second half of the project; <br>
+		d. Started the "Design of Sleeping Teaching Assistant". <br>	<br>
+	2. Cassandra: Finished second half of the project; <br> <br>
 		a. Completed *TA_Activity() function. <br>
 		b. Completed *Student_Activity() function <br>
 		c. Completed README file added test run screenshot <br>
