@@ -20,10 +20,11 @@ Team collaboration on the project: <br>
 		a. Initializing Mutex Lock and Semaphores. <br>
 		b. Created and Waiting TA threads and N Student threads. <br>
 		c. Started the README file <br>
-		d. Started the "Design of Sleeping Teaching Assistant" <br>
-		
+		d. Started the "Design of Sleeping Teaching Assistant". <br>	
 	2. Cassandra: Finished second half of the project; <br>
 		a. Completed *TA_Activity() function. <br>
 		b. Completed *Student_Activity() function <br>
 		c. Completed README file added test run screenshot <br>
 		d. Completed the "Design of Sleeping Teaching Assistant" <br>
+
+	
